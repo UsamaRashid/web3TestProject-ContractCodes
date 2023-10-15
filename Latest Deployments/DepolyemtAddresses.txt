@@ -1,0 +1,23 @@
+########################################################################################
+
+  StakingToken             0xe957ccc8F8BDACcFC70FE02539159Cb39B17a951
+  https://testnet.bscscan.com/address/0xe957ccc8f8bdaccfc70fe02539159cb39b17a951#code
+
+########################################################################################
+
+  RewardingToken           0x0444d6432B27Fbc56d060dDcA2Bb41bF138Eeb15
+  https://testnet.bscscan.com/address/0x0444d6432b27fbc56d060ddca2bb41bf138eeb15#code
+
+########################################################################################
+
+  NFT                      0xBDcD19625D9E377a0203Eca951e3F899D04D4E3F
+  https://testnet.bscscan.com/address/0xBDcD19625D9E377a0203Eca951e3F899D04D4E3F#code
+
+
+########################################################################################
+
+  TokenStakingContract     0xB414021cEf503B6E56B93613d6e170391634366F
+  https://testnet.bscscan.com/address/0xb414021cef503b6e56b93613d6e170391634366f#code
+
+########################################################################################
+
